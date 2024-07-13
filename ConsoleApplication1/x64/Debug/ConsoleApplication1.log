@@ -1,0 +1,7 @@
+﻿  李宗珍.cpp
+E:\桌面\创建文档\vsC++\ConsoleApplication1\李宗珍.cpp(9,5): error C2369: “A”: 重定义；不同的下标
+E:\桌面\创建文档\vsC++\ConsoleApplication1\李宗珍.cpp(4,5): message : 参见“A”的声明
+E:\桌面\创建文档\vsC++\ConsoleApplication1\李宗珍.cpp(9,15): error C2369: “B”: 重定义；不同的下标
+E:\桌面\创建文档\vsC++\ConsoleApplication1\李宗珍.cpp(5,5): message : 参见“B”的声明
+E:\桌面\创建文档\vsC++\ConsoleApplication1\李宗珍.cpp(10,5): error C2086: “int w[7][7]”: 重定义
+E:\桌面\创建文档\vsC++\ConsoleApplication1\李宗珍.cpp(2,5): message : 参见“w”的声明
